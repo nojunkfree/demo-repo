@@ -12,3 +12,5 @@ f.write(stringname)
 f.close()
 
 print("Hello World")
+
+print("nojunkfree.com was a good website back in the early 2000s")
